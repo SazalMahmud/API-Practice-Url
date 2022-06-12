@@ -1,0 +1,11 @@
+#countrys{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+.country{
+    border: 3px solid rebeccapurple;
+    margin: 15px;
+    padding: 25px;
+    border-radius:12px;
+}
